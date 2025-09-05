@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Mydogecoin Core
+Comment=Connect to the Mydogecoin P2P Network
+Comment[de]=Verbinde mit dem Mydogecoin peer-to-peer Netzwerk
+Comment[fr]=Mydogecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mydogecoin, eşten eşe kriptografik sanal para birimi
+Exec=mydogecoin-qt %u
+Terminal=false
+Type=Application
+Icon=mydogecoin128
+MimeType=x-scheme-handler/mydogecoin;
+Categories=Office;Finance;

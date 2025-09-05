@@ -1,5 +1,5 @@
 // Copyright (c) 2011-2016 The Bitcoin Core developers
-// Copyright (c) 2021-2023 The Dogecoin Core developers
+// Copyright (c) 2021-2023 The Mydogecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -25,12 +25,11 @@
 #include "clientmodel.h"
 #include "guiconstants.h"
 #include "intro.h"
+#include "paymentrequestplus.h"
 #include "guiutil.h"
 
-#include "base58.h"
 #include "clientversion.h"
 #include "init.h"
-#include "key.h"
 #include "util.h"
 #include "net.h"
 #include "utilstrencodings.h"
@@ -50,10 +49,17 @@
 #include <qrencode.h>
 #endif
 
+#if QT_VERSION < 0x050000
+#include <QPrinter>
+#include <QPrintDialog>
+#include <QPrintPreviewDialog>
+#else
+// Use QT5's new modular classes
 #include <QtPrintSupport/QPrinter>
 #include <QtPrintSupport/QPrintDialog>
 #include <QtPrintSupport/QPrintPreviewDialog>
 #include <QtPrintSupport/QPrinterInfo>
+#endif
 #include <QPainter>
 #include "walletmodel.h"
 
@@ -97,7 +103,7 @@ HelpMessageDialog::HelpMessageDialog(QWidget *parent, bool about) :
     } else {
         setWindowTitle(tr("Command-line options"));
         QString header = tr("Usage:") + "\n" +
-            "  dogecoin-qt [" + tr("command-line options") + "]                     " + "\n";
+            "  mydogecoin-qt [" + tr("command-line options") + "]                     " + "\n";
         QTextCursor cursor(ui->helpMessage->document());
         cursor.insertText(version);
         cursor.insertBlock();
@@ -107,9 +113,13 @@ HelpMessageDialog::HelpMessageDialog(QWidget *parent, bool about) :
         std::string strUsage = HelpMessage(HMM_BITCOIN_QT);
         const bool showDebug = GetBoolArg("-help-debug", false);
         strUsage += HelpMessageGroup(tr("UI Options:").toStdString());
+        if (showDebug) {
+            strUsage += HelpMessageOpt("-allowselfsignedrootcertificates", strprintf("Allow self signed root certificates (default: %u)", DEFAULT_SELFSIGNED_ROOTCERTS));
+        }
         strUsage += HelpMessageOpt("-choosedatadir", strprintf(tr("Choose data directory on startup (default: %u)").toStdString(), DEFAULT_CHOOSE_DATADIR));
         strUsage += HelpMessageOpt("-lang=<lang>", tr("Set language, for example \"de_DE\" (default: system locale)").toStdString());
         strUsage += HelpMessageOpt("-min", tr("Start minimized").toStdString());
+        strUsage += HelpMessageOpt("-rootcertificates=<file>", tr("Set SSL root certificates for payment request (default: -system-)").toStdString());
         strUsage += HelpMessageOpt("-splash", strprintf(tr("Show splash screen on startup (default: %u)").toStdString(), DEFAULT_SPLASHSCREEN));
         strUsage += HelpMessageOpt("-resetguisettings", tr("Reset all settings changed in the GUI").toStdString());
         if (showDebug) {
@@ -338,8 +348,10 @@ void PaperWalletDialog::on_printButton_clicked()
     QPrinter printer(QPrinter::HighResolution);
     QPrintDialog* qpd = new QPrintDialog(&printer, this);
 
+    #if QT_VERSION > 0x050000
     QPrinterInfo printerinfo(printer);
     QPageSize papersize = printerinfo.defaultPageSize();
+    #endif
 
     qpd->setPrintRange(QAbstractPrintDialog::AllPages);
     QList<QString> recipientPubKeyHashes;
@@ -348,8 +360,13 @@ void PaperWalletDialog::on_printButton_clicked()
         return;
     }
 
+
     printer.setOrientation(QPrinter::Portrait);
+    #if QT_VERSION > 0x050000
     printer.QPagedPaintDevice::setPageSize(papersize);
+    #else
+    printer.setPaperSize(QPrinter::A4);
+    #endif
     printer.setFullPage(true);
 
     QPainter painter;
@@ -392,7 +409,7 @@ void PaperWalletDialog::on_printButton_clicked()
         bool ok;
 
         // Ask for an amount to send to each paper wallet. It might be better to try to use the BitcoinAmountField, but this works fine.
-        double amountInput = QInputDialog::getDouble(this, tr("Load Paper Wallets"), tr("The paper wallet printing process has begun.<br/>Please wait for the wallets to print completely and verify that everything printed correctly.<br/>Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.<br/>Now, enter the number of DOGE you wish to send to each wallet:"), 0, 0, 2147483647, 8, &ok);
+        double amountInput = QInputDialog::getDouble(this, tr("Load Paper Wallets"), tr("The paper wallet printing process has begun.<br/>Please wait for the wallets to print completely and verify that everything printed correctly.<br/>Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.<br/>Now, enter the number of MYDOGE you wish to send to each wallet:"), 0, 0, 2147483647, 8, &ok);
 
         if (!ok) {
             return;

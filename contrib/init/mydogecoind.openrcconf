@@ -1,0 +1,33 @@
+# /etc/conf.d/mydogecoind: config file for /etc/init.d/mydogecoind
+
+# Config file location
+#MYDOGECOIND_CONFIGFILE="/etc/mydogecoin/mydogecoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $MYDOGECOIND_USER)
+#MYDOGECOIND_PIDDIR="/var/run/mydogecoind"
+
+# What filename to give the pidfile
+#MYDOGECOIND_PIDFILE="${MYDOGECOIND_PIDDIR}/mydogecoind.pid"
+
+# Where to write mydogecoind data (be mindful that the blockchain is large)
+#MYDOGECOIND_DATADIR="/var/lib/mydogecoind"
+
+# User and group to own mydogecoind process
+#MYDOGECOIND_USER="mydogecoin"
+#MYDOGECOIND_GROUP="mydogecoin"
+
+# Path to mydogecoind executable
+#MYDOGECOIND_BIN="/usr/bin/mydogecoind"
+
+# Nice value to run mydogecoind under
+#MYDOGECOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+MYDOGECOIND_OPTS="-disablewallet"
+
+# The timeout in seconds OpenRC will wait for mydogecoind to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+MYDOGECOIND_SIGTERM_TIMEOUT=60

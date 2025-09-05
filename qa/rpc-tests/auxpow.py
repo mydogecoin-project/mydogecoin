@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2015-2018 The Dogecoin Core developers
+# Copyright (c) 2015-2018 The Mydogecoin Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -61,7 +61,7 @@ class AuxPOWTest (BitcoinTestFramework):
                 raise ex
         self.sync_all()
 
-        # 5. mine blocks until we're in auxpow era
+        # 5. mine blocks until we're in in auxpow era
         self.nodes[1].generate(self.AUXPOW_START - self.DIGISHIELD_START)
         self.sync_all()
 

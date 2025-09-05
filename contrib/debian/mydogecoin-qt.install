@@ -1,0 +1,6 @@
+usr/local/bin/mydogecoin-qt usr/bin
+share/pixmaps/mydogecoin32.xpm usr/share/pixmaps
+share/pixmaps/mydogecoin16.xpm usr/share/pixmaps
+share/pixmaps/mydogecoin128.png usr/share/pixmaps
+debian/mydogecoin-qt.desktop usr/share/applications
+debian/mydogecoin-qt.protocol usr/share/kde4/services/
