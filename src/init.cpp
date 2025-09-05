@@ -514,7 +514,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/mydoge-coin/mydogecoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/mydogecoin-project/mydogecoin>";
     const std::string URL_WEBSITE = "<https://mydogecoin.fun>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2025, COPYRIGHT_YEAR) + " ") + "\n" +
