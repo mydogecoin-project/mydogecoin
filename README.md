@@ -2,7 +2,7 @@
 Mydogecoin Core [MYDOGE]  
 </h1>
 
-Mydogecoin is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Mydogecoin Core software allows anyone to operate a node in the Mydogecoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
+Mydogecoin is a community-driven cryptocurrency that was inspired by a Dogecoin and Shiba Inu meme. The Mydogecoin Core software allows anyone to operate a node in the Mydogecoin blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
 For information about the default fees used on the Mydogecoin network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).
