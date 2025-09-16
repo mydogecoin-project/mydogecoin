@@ -99,12 +99,12 @@
         <translation>Adresses de réception</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Voici vos adresses Dogecoin pour envoyer des paiements. Vérifiez toujours le montant et l&apos;adresse du destinataire avant d&apos;envoyer des pièces.</translation>
+        <source>These are your Mydogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Voici vos adresses Mydogecoin pour envoyer des paiements. Vérifiez toujours le montant et l&apos;adresse du destinataire avant d&apos;envoyer des pièces.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Voici vos adresses Dogecoin pour recevoir des paiements. Il est recommandé d&apos;utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
+        <source>These are your Mydogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Voici vos adresses Mydogecoin pour recevoir des paiements. Il est recommandé d&apos;utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -205,8 +205,8 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Avertissement : si vous cryptez votre portefeuille et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS DOGECOINS&lt;/b&gt; !</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR MYDOGECOINS&lt;/b&gt;!</source>
+        <translation>Avertissement : si vous cryptez votre portefeuille et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS MYDOGECOINS&lt;/b&gt; !</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -217,8 +217,8 @@
         <translation>Le portefeuille est crypté</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>%1 va maintenant se fermer pour terminer le processus de cryptage. Souvenez-vous que le cryptage de votre portefeuille ne peut pas protéger entièrement vos dogecoins contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your mydogecoins from being stolen by malware infecting your computer.</source>
+        <translation>%1 va maintenant se fermer pour terminer le processus de cryptage. Souvenez-vous que le cryptage de votre portefeuille ne peut pas protéger entièrement vos mydogecoins contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -291,16 +291,16 @@
         <translation>&amp;Such Envoyer</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Envoyer des pièces à une adresse Dogecoin</translation>
+        <source>Send coins to a Mydogecoin address</source>
+        <translation>Envoyer des pièces à une adresse Mydogecoin</translation>
     </message>
     <message>
         <source>&amp;Much Receive</source>
         <translation>&amp;Much Recevoir</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Demander des paiements (génère des codes QR et des URI dogecoin)</translation>
+        <source>Request payments (generates QR codes and mydogecoin: URIs)</source>
+        <translation>Demander des paiements (génère des codes QR et des URI mydogecoin)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -379,16 +379,16 @@
         <translation>Signer le &amp;message</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Signer les messages avec vos adresses Dogecoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your Mydogecoin addresses to prove you own them</source>
+        <translation>Signer les messages avec vos adresses Mydogecoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Vérifier un message...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Vérifier les messages pour s&apos;assurer qu&apos;ils ont été signés avec les adresses Dogecoin spécifiées</translation>
+        <source>Verify messages to ensure they were signed with specified Mydogecoin addresses</source>
+        <translation>Vérifier les messages pour s&apos;assurer qu&apos;ils ont été signés avec les adresses Mydogecoin spécifiées</translation>
     </message>
     <message>
         <source>&amp;Print paper wallets</source>
@@ -427,24 +427,24 @@
         <translation>Ouvrir l&apos;&amp;URI...</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Ouvrir une URI dogecoin ou une demande de paiement</translation>
+        <source>Open a mydogecoin: URI or payment request</source>
+        <translation>Ouvrir une URI mydogecoin ou une demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Import Private Key...</source>
         <translation>&amp;Importer une clé privée...</translation>
     </message>
     <message>
-        <source>Import a Dogecoin private key</source>
-        <translation>Importer une clé privée Dogecoin</translation>
+        <source>Import a Mydogecoin private key</source>
+        <translation>Importer une clé privée Mydogecoin</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Options de ligne de &amp;commande</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Afficher le message d&apos;aide de %1 pour obtenir la liste des options de ligne de commande Dogecoin possibles.</translation>
+        <source>Show the %1 help message to get a list with possible Mydogecoin command-line options</source>
+        <translation>Afficher le message d&apos;aide de %1 pour obtenir la liste des options de ligne de commande Mydogecoin possibles.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -467,10 +467,10 @@
         <translation>Client %1</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
+        <source>%n active connection(s) to Mydogecoin network</source>
         <translation>
-            <numerusform>%n connexion active avec le réseau Dogecoin</numerusform>
-            <numerusform>%n connexions actives avec le réseau Dogecoin</numerusform>
+            <numerusform>%n connexion active avec le réseau Mydogecoin</numerusform>
+            <numerusform>%n connexions actives avec le réseau Mydogecoin</numerusform>
         </translation>
     </message>
     <message>
@@ -537,8 +537,8 @@
         <translation>Les transactions suivantes ne seront pas déjà visibles.</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>Mydogecoin</source>
+        <translation>Mydogecoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -611,8 +611,8 @@
         <translation>Runaway exception</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale est survenue. Dogecoin ne peut plus continuer en toute sécurité et va s&apos;arrêter.</translation>
+        <source>A fatal error occurred. Mydogecoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale est survenue. Mydogecoin ne peut plus continuer en toute sécurité et va s&apos;arrêter.</translation>
     </message>
 </context>
 <context>
@@ -805,8 +805,8 @@
         <translation>Modifier l&apos;adresse d&apos;envoi</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>L&apos;adresse saisie «&#xa0;%1&#xa0;» n&apos;est pas une adresse Dogecoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Mydogecoin address.</source>
+        <translation>L&apos;adresse saisie «&#xa0;%1&#xa0;» n&apos;est pas une adresse Mydogecoin valide.</translation>
     </message>
     <message>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
@@ -977,8 +977,8 @@
         <translation>Puisque c&apos;est la première fois que le logiciel est lancé, vous pouvez choisir où %1 stockera ses données.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Dogecoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs de Dogecoin. Au moins %2 Go de données seront stockés dans ce répertoire et sa taille augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
+        <source>%1 will download and store a copy of the Mydogecoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>%1 téléchargera et stockera une copie de la chaîne de blocs de Mydogecoin. Au moins %2 Go de données seront stockés dans ce répertoire et sa taille augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1022,12 +1022,12 @@
         <translation>Formulaire</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the dogecoin network, as detailed below.</source>
-        <translation>Les transactions récentes ne sont peut-être pas encore visibles, et par conséquent, le solde de votre portefeuille est peut-être erroné. Cette information sera juste une fois que votre portefeuille aura fini de se synchroniser avec le réseau Dogecoin, comme décrit ci-dessous.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the mydogecoin network, as detailed below.</source>
+        <translation>Les transactions récentes ne sont peut-être pas encore visibles, et par conséquent, le solde de votre portefeuille est peut-être erroné. Cette information sera juste une fois que votre portefeuille aura fini de se synchroniser avec le réseau Mydogecoin, comme décrit ci-dessous.</translation>
     </message>
     <message>
-        <source>Attempting to spend dogecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Toute tentative de dépense de dogecoins affectés par des transactions qui ne sont pas encore affichées ne sera pas acceptée par le réseau.</translation>
+        <source>Attempting to spend mydogecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Toute tentative de dépense de mydogecoins affectés par des transactions qui ne sont pas encore affichées ne sera pas acceptée par le réseau.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1168,8 +1168,8 @@
         <translation>&amp;Réseau</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquement le port du client Dogecoin sur le routeur. Cela ne fonctionne que si votre routeur prend en charge l&apos;UPnP et si la fonction est activée.</translation>
+        <source>Automatically open the Mydogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquement le port du client Mydogecoin sur le routeur. Cela ne fonctionne que si votre routeur prend en charge l&apos;UPnP et si la fonction est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1184,8 +1184,8 @@
         <translation>Permettre les transactions entrantes</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS5 proxy.</source>
-        <translation>Se connecter au réseau Dogecoin par un mandataire SOCKS5.</translation>
+        <source>Connect to the Mydogecoin network through a SOCKS5 proxy.</source>
+        <translation>Se connecter au réseau Mydogecoin par un mandataire SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1228,8 +1228,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Se connecter au réseau Dogecoin au travers d&apos;un mandataire SOCKS5 séparé pour les services cachés de Tor.</translation>
+        <source>Connect to the Mydogecoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Se connecter au réseau Mydogecoin au travers d&apos;un mandataire SOCKS5 séparé pour les services cachés de Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1351,8 +1351,8 @@
         <translation>Soldes</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille est automatiquement synchronisé avec le réseau Dogecoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Mydogecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille est automatiquement synchronisé avec le réseau Mydogecoin lorsque la connexion s&apos;établit, or ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1455,12 +1455,12 @@
         <translation>Ceux qui possèdent les clés privées possèdent les pièces.</translation>
     </message>
     <message>
-        <source>To see ongoing development and contribute, check out the Dogecoin Core repository on GitHub</source>
-        <translation>Pour voir le développement en cours et contribuer, consultez le dépôt Dogecoin sur GitHub !</translation>
+        <source>To see ongoing development and contribute, check out the Mydogecoin Core repository on GitHub</source>
+        <translation>Pour voir le développement en cours et contribuer, consultez le dépôt Mydogecoin sur GitHub !</translation>
     </message>
     <message>
-        <source>Services that claim to double your dogecoins are always ponzi schemes</source>
-        <translation>Les services qui prétendent doubler vos dogecoins sont toujours des systèmes de ponzi.</translation>
+        <source>Services that claim to double your mydogecoins are always ponzi schemes</source>
+        <translation>Les services qui prétendent doubler vos mydogecoins sont toujours des systèmes de ponzi.</translation>
     </message>
 </context>
 <context>
@@ -1578,8 +1578,8 @@ p, li { white-space: pre-wrap; }
         <translation>Chargement du portefeuille papier</translation>
     </message>
     <message>
-        <source>The paper wallet printing process has begun.&lt;br/&gt;Please wait for the wallets to print completely and verify that everything printed correctly.&lt;br/&gt;Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.&lt;br/&gt;Now, enter the number of DOGE you wish to send to each wallet:</source>
-        <translation>Le processus d&apos;impression des portefeuilles en papier a commencé.&lt;br/&gt;Veuillez attendre que les portefeuilles s&apos;impriment complètement et vérifiez que tout s&apos;est imprimé correctement.&lt;br/&gt;Vérifiez que les clés privées ne sont pas mal alignées, que l&apos;encre ne coule pas, qu&apos;elles ne sont pas tachées ou que rien d&apos;autre ne risque de les rendre illisibles.&lt;br/&gt;Maintenant, entrez le nombre de DOGE que vous souhaitez envoyer à chaque portefeuille :</translation>
+        <source>The paper wallet printing process has begun.&lt;br/&gt;Please wait for the wallets to print completely and verify that everything printed correctly.&lt;br/&gt;Check for misalignments, ink bleeding, smears, or anything else that could make the private keys unreadable.&lt;br/&gt;Now, enter the number of MYDOGE you wish to send to each wallet:</source>
+        <translation>Le processus d&apos;impression des portefeuilles en papier a commencé.&lt;br/&gt;Veuillez attendre que les portefeuilles s&apos;impriment complètement et vérifiez que tout s&apos;est imprimé correctement.&lt;br/&gt;Vérifiez que les clés privées ne sont pas mal alignées, que l&apos;encre ne coule pas, qu&apos;elles ne sont pas tachées ou que rien d&apos;autre ne risque de les rendre illisibles.&lt;br/&gt;Maintenant, entrez le nombre de MYDOGE que vous souhaitez envoyer à chaque portefeuille :</translation>
     </message>
     <message>
         <source>Paper wallet %1</source>
@@ -1649,8 +1649,8 @@ p, li { white-space: pre-wrap; }
         <translation>Erreur de demande de paiement</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Impossible de démarrer le gestionnaire de cliquer-pour-payer dogecoin:</translation>
+        <source>Cannot start mydogecoin: click-to-pay handler</source>
+        <translation>Impossible de démarrer le gestionnaire de cliquer-pour-payer mydogecoin:</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1673,8 +1673,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Adresse de paiement invalide %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>L&apos;URI ne peut pas être analysée&#xa0;! Cela peut être causé par une adresse Dogecoin invalide ou par des paramètres d&apos;URI mal formés.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Mydogecoin address or malformed URI parameters.</source>
+        <translation>L&apos;URI ne peut pas être analysée&#xa0;! Cela peut être causé par une adresse Mydogecoin invalide ou par des paramètres d&apos;URI mal formés.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1814,8 +1814,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Saisir une adresse Dogecoin (p. ex. %1)</translation>
+        <source>Enter a Mydogecoin address (e.g. %1)</source>
+        <translation>Saisir une adresse Mydogecoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2288,8 +2288,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Ré&amp;utiliser une adresse de réception existante (non recommandé)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l&apos;ouverture de celle-ci. Note : le message ne sera pas envoyé avec le paiement par le réseau Dogecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Mydogecoin network.</source>
+        <translation>Un message facultatif à joindre à la demande de paiement et qui sera affiché à l&apos;ouverture de celle-ci. Note : le message ne sera pas envoyé avec le paiement par le réseau Mydogecoin.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2549,7 +2549,7 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>total au moins</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for dogecoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for mydogecoin transactions than the network can process.</source>
         <translation>Il est correct de payer les frais minimum tant que le volume transactionnel est inférieur à l&apos;espace dans les blocs. Mais soyez conscient que cela pourrait résulter en une transaction n&apos;étant jamais confirmée une fois qu&apos;il y aura plus de transactions que le réseau ne pourra en traiter.</translation>
     </message>
     <message>
@@ -2697,8 +2697,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Payer seulement les frais exigés de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Avertissement : adresse Dogecoin invalide</translation>
+        <source>Warning: Invalid Mydogecoin address</source>
+        <translation>Avertissement : adresse Mydogecoin invalide</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2728,8 +2728,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>&amp;Payer à&#xa0;:</translation>
     </message>
     <message>
-        <source>The Dogecoin address to send the payment to</source>
-        <translation>L&apos;adresse Dogecoin à laquelle envoyer le paiement</translation>
+        <source>The Mydogecoin address to send the payment to</source>
+        <translation>L&apos;adresse Mydogecoin à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2764,8 +2764,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>&amp;Montant&#xa0;:</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less dogecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Les frais seront déduits du montant envoyé. Le destinataire recevra moins de dogecoins que le montant saisi dans le champ de montant. Si plusieurs destinataires sont sélectionnés, les frais seront partagés également.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less mydogecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Les frais seront déduits du montant envoyé. Le destinataire recevra moins de mydogecoins que le montant saisi dans le champ de montant. Si plusieurs destinataires sont sélectionnés, les frais seront partagés également.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2776,8 +2776,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Message&#xa0;:</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Un message qui était joint à l&apos;URI dogecoin: et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau Dogecoin.</translation>
+        <source>A message that was attached to the mydogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Mydogecoin network.</source>
+        <translation>Un message qui était joint à l&apos;URI mydogecoin: et qui sera stocké avec la transaction pour référence. Note : ce message ne sera pas envoyé par le réseau Mydogecoin.</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -2829,12 +2829,12 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>&amp;Signer un message</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive dogecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Vous pouvez signer des messages ou des accords avec vos adresses pour prouver que vous pouvez recevoir des dogecoins à ces dernières. Faites attention de ne rien signer de vague ou au hasard, car des attaques d&apos;hameçonnage pourraient essayer de vous faire signer avec votre identité afin de l&apos;usurper. Ne signez que des déclarations entièrement détaillées et avec lesquelles vous êtes d&apos;accord.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive mydogecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Vous pouvez signer des messages ou des accords avec vos adresses pour prouver que vous pouvez recevoir des mydogecoins à ces dernières. Faites attention de ne rien signer de vague ou au hasard, car des attaques d&apos;hameçonnage pourraient essayer de vous faire signer avec votre identité afin de l&apos;usurper. Ne signez que des déclarations entièrement détaillées et avec lesquelles vous êtes d&apos;accord.</translation>
     </message>
     <message>
-        <source>The Dogecoin address to sign the message with</source>
-        <translation>L&apos;adresse Dogecoin à laquelle envoyer le paiement</translation>
+        <source>The Mydogecoin address to sign the message with</source>
+        <translation>L&apos;adresse Mydogecoin à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2865,8 +2865,8 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Copier la signature actuelle dans le presse-papiers</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Signer le message afin de prouver que vous détenez cette adresse Dogecoin</translation>
+        <source>Sign the message to prove you own this Mydogecoin address</source>
+        <translation>Signer le message afin de prouver que vous détenez cette adresse Mydogecoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2889,12 +2889,12 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
         <translation>Saisir ci-dessous l&apos;adresse du destinataire, le message (s&apos;assurer de copier fidèlement les retours à la ligne, les espaces, les tabulations, etc.) et la signature pour vérifier le message. Faire attention à ne pas déduire davantage de la signature que ce qui est contenu dans le message signé même, pour éviter d&apos;être trompé par une attaque d&apos;homme du milieu. Prendre en compte que cela ne fait que prouver que le signataire reçoit l&apos;adresse et ne peut pas prouver la provenance d&apos;une transaction !</translation>
     </message>
     <message>
-        <source>The Dogecoin address the message was signed with</source>
-        <translation>L&apos;adresse Dogecoin avec laquelle le message a été signé</translation>
+        <source>The Mydogecoin address the message was signed with</source>
+        <translation>L&apos;adresse Mydogecoin avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>érifier le message pour s&apos;assurer qu&apos;il a été signé avec l&apos;adresse Dogecoin spécifiée</translation>
+        <source>Verify the message to ensure it was signed with the specified Mydogecoin address</source>
+        <translation>érifier le message pour s&apos;assurer qu&apos;il a été signé avec l&apos;adresse Mydogecoin spécifiée</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3183,1323 +3183,1323 @@ Utilisez cette fonctionnalité avec une extrême prudence.</translation>
     <name>TransactionDescDialog</name>
     <message>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Ce volet présente une description détaillée de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Details for %1</source>
-        <translation>Détails pour %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TransactionTableModel</name>
     <message>
         <source>Date</source>
-        <translation>Date</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Étiquette</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation>
-            <numerusform>Ouvert pour %n bloc de plus</numerusform>
-            <numerusform>Ouvert pour %n blocs de plus</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Open until %1</source>
-        <translation>Ouvert jusqu&apos;à %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unconfirmed</source>
-        <translation>Non confirmé</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abandoned</source>
-        <translation>Abandonné</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Confirmation (%1 des %2 confirmations recommandées)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Confirmé (%1 confirmations)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Conflicted</source>
-        <translation>En conflit</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Immature (%1 confirmations, seront disponibles après %2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Generated but not accepted</source>
-        <translation>Généré mais non accepté</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>Reçu avec</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Received from</source>
-        <translation>Reçu de</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Envoyé à</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Payment to yourself</source>
-        <translation>Paiement à soi-même</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Miné</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>watch-only</source>
-        <translation>juste-regarder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(n/a)</source>
-        <translation>(na)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(no label)</source>
-        <translation>(sans étiquette)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Statut de la transaction. En survolant ce champ, le nombre de confirmations s&apos;affiche.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date and time that the transaction was received.</source>
-        <translation>Date et heure de réception de la transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type of transaction.</source>
-        <translation>Type de transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Whether or not a watch-only address is involved in this transaction.</source>
-        <translation>Indique si une adresse de surveillance est impliquée dans cette transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User-defined intent/purpose of the transaction.</source>
-        <translation>Intention/objectif de la transaction défini par l&apos;utilisateur.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Amount removed from or added to balance.</source>
-        <translation>Montant retiré ou ajouté au solde.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TransactionView</name>
     <message>
         <source>All</source>
-        <translation>Tout</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Aujourd&apos;hui</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Cette semaine</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Ce mois-ci</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Le mois dernier</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>Cette année</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Range...</source>
-        <translation>Intervalle...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Received with</source>
-        <translation>Reçu avec</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sent to</source>
-        <translation>Envoyé à</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To yourself</source>
-        <translation>À vous-même</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mined</source>
-        <translation>Miné</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Autre</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Saisir l&apos;adresse ou l&apos;étiquette à rechercher</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Min amount</source>
-        <translation>Montant minimum</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Abandon transaction</source>
-        <translation>Abandon de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copie de l&apos;adresse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copier l&apos;étiquette</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Montant de la copie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Copier l&apos;ID de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy raw transaction</source>
-        <translation>Copier la transaction brute</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy full transaction details</source>
-        <translation>Copier tous les détails de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Modifier l&apos;étiquette</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show transaction details</source>
-        <translation>Afficher les détails de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export Transaction History</source>
-        <translation>Exporter l&apos;historique des transactions</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
-        <translation>Fichier séparé par des virgules (*.csv)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation>Confirmé</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Watch-only</source>
-        <translation>Juste-regarder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date</source>
-        <translation>Date</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Étiquette</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Adresse</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>ID</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exporting Failed</source>
-        <translation>Échec de l&apos;exportation</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There was an error trying to save the transaction history to %1.</source>
-        <translation>Une erreur s&apos;est produite lors de l&apos;enregistrement de l&apos;historique des transactions dans %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exporting Successful</source>
-        <translation>Exportation réussie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
-        <translation>L&apos;historique des transactions a été sauvegardé avec succès dans %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Range:</source>
-        <translation>Intervalle :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>to</source>
-        <translation>à</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
         <source>Unit to show amounts in. Click to select another unit.</source>
-        <translation>Unité dans laquelle les montants doivent être affichés. Cliquez pour sélectionner une autre unité.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WalletFrame</name>
     <message>
         <source>No wallet has been loaded.</source>
-        <translation>Aucun portefeuille n&apos;a été chargé.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Envoyer des pièces</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WalletView</name>
     <message>
         <source>&amp;Export</source>
-        <translation>&amp;Exporter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exporter les données de l&apos;onglet en cours vers un fichier</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Wallet</source>
-        <translation>Portefeuille de sauvegarde</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet Data (*.dat)</source>
-        <translation>Données du portefeuille (*.dat)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Failed</source>
-        <translation>Échec de la sauvegarde</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There was an error trying to save the wallet data to %1.</source>
-        <translation>Une erreur s&apos;est produite lors de l&apos;enregistrement des données du portefeuille dans %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup Successful</source>
-        <translation>Sauvegarde réussie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The wallet data was successfully saved to %1.</source>
-        <translation>Les données du portefeuille ont été enregistrées avec succès dans %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>Mydogecoin Core</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The %s developers</source>
-        <translation>Les %s développeurs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bitcoin Core and Dogecoin Core</source>
-        <translation>Bitcoin Core et Dogecoin Core</translation>
+        <source>Bitcoin Core and Mydogecoin Core</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
-        <translation>(1 = conserver les métadonnées tx, par exemple le propriétaire du compte et les informations relatives à la demande de paiement, 2 = supprimer les métadonnées tx)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>-discardthreshold is set very high! This is the output amount that the wallet will discard (to fee) if it is smaller than this setting.</source>
-        <translation>-discardthreshold est très élevé ! Il s&apos;agit du montant de sortie que le portefeuille rejettera (vers les frais) s&apos;il est inférieur à ce paramètre.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>-maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
-        <translation>-maxtxfee est très élevé ! Des frais aussi importants pourraient être payés sur une seule transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A fee rate (in %s/kB) that will be used when fee estimation has insufficient data (default: %s)</source>
-        <translation>Un taux de frais (en %s/kB) qui sera utilisé lorsque l&apos;estimation des frais ne dispose pas de données suffisantes (par défaut : %s).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect/-noconnect)</source>
-        <translation>Accepter les connexions de l&apos;extérieur (par défaut : 1 si pas de -proxy ou -connect/-noconnect)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept relayed transactions received from whitelisted peers even when not relaying transactions (default: %d)</source>
-        <translation>Accepter les transactions relayées reçues de pairs figurant sur la liste blanche, même si les transactions ne sont pas relayées (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
-        <translation>Autorise les connexions JSON-RPC à partir de la source spécifiée. Les valeurs valides pour &lt;l&apos;ip&gt; sont une IP unique (par exemple 1.2.3.4), un réseau/masque de réseau (par exemple 1.2.3.4/255.255.255.0) ou un réseau/CIDR (par exemple 1.2.3.4/24). Cette option peut être spécifiée plusieurs fois</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Amount under which a transaction output is considered dust, in %s (default: %s)</source>
-        <translation>Montant en dessous duquel une sortie de transaction est considérée comme poussière, en %s (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Amount under which a transaction output is considered non-standard and will not be accepted or relayed, in %s (default: %s)</source>
-        <translation>Montant en dessous duquel une sortie de transaction est considérée comme non standard et ne sera pas acceptée ou relayée, en %s (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Se lie à une adresse donnée et écoute toujours sur cette adresse. Utiliser la notation [host]:port pour IPv6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
-        <translation>Lier à une adresse donnée et mettre sur liste blanche les pairs qui s&apos;y connectent. Utiliser la notation [host]:port pour IPv6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
-        <translation>Se lie à l&apos;adresse donnée pour écouter les connexions JSON-RPC. Utilisez la notation [host]:port pour IPv6. Cette option peut être spécifiée plusieurs fois (par défaut : lier à toutes les interfaces)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. %s is probably already running.</source>
-        <translation>Impossible d&apos;obtenir un verrou sur le répertoire de données %s. %s est probablement déjà en cours d&apos;exécution.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect only to the specified node(s); -noconnect or -connect=0 alone to disable automatic connections</source>
-        <translation>Se connecter uniquement au(x) nœud(s) spécifié(s); -noconnect ou -connect=0 seul pour désactiver les connexions automatiques</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
-        <translation>Créer de nouveaux fichiers avec les permissions par défaut du système, au lieu de umask 077 (efficace uniquement lorsque la fonctionnalité de portefeuille est désactivée)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
-        <translation>Supprimer toutes les transactions du portefeuille et ne récupérer que les parties de la blockchain via l&apos;option -rescan au démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Discover own IP addresses (default: 1 when listening and no -externalip or -proxy)</source>
-        <translation>Découvrir ses propres adresses IP (par défaut : 1 en cas d&apos;écoute et pas -externalip ou -proxy)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file %s or %s</source>
-        <translation>Distribué sous la licence MIT, voir le fichier d&apos;accompagnement %s ou %s</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not keep transactions in the mempool longer than &lt;n&gt; hours (default: %u)</source>
-        <translation>Ne pas conserver les transactions dans le mempool plus longtemps que &lt;n&gt; heures (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equivalent bytes per sigop in transactions for relay and mining (default: %u)</source>
-        <translation>Octets équivalents par sigop dans les transactions pour les relais et le minage (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading %s: You can&apos;t enable HD on a already existing non-HD wallet</source>
-        <translation>Erreur de chargement %s : Vous ne pouvez pas activer la HD sur un portefeuille non-HD existant</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error reading %s! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Erreur de lecture de %s ! Toutes les clés sont lues correctement, mais les données de transaction ou les entrées du carnet d&apos;adresses peuvent être manquantes ou incorrectes.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
-        <translation>Erreur : L&apos;écoute des connexions entrantes a échoué (l&apos;écoute a renvoyé une erreur %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID, %i with block height, with a value of 0 if tx is no longer in chaintip)</source>
-        <translation>Exécuter une commande lorsqu&apos;une transaction de portefeuille change (%s dans cmd est remplacé par TxID, %i par la hauteur du bloc, avec une valeur de 0 si tx n&apos;est plus dans chaintip)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash, %i is replaced by block number)</source>
-        <translation>Exécuter la commande lorsque le meilleur bloc change (%s dans cmd est remplacé par le hachage du bloc, %i est remplacé par le numéro du bloc).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Execute command when we see a really long fork (%s in cmd is replaced by message)</source>
-        <translation>Exécuter la commande lorsque nous voyons un fork vraiment long (%s dans cmd est remplacé par message)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extra transactions to keep in memory for compact block reconstructions (default: %u)</source>
-        <translation>Transactions supplémentaires à conserver en mémoire pour les reconstructions de blocs compacts (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for relaying, mining and transaction creation (default: %s)</source>
-        <translation>Les frais (en %s/kB) inférieurs à cette valeur sont considérés comme nuls pour le relais, le minage et la création de transactions (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fees (in %s/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Les frais (en %s/kB) inférieurs à cette valeur sont considérés comme nuls pour la création de la transaction (par défaut : %s).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Force relay of transactions from whitelisted peers even if they violate local relay policy (default: %d)</source>
-        <translation>Forcer le relais des transactions provenant de pairs figurant sur la liste blanche, même si elles violent la politique de relais locale (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>Niveau de rigueur de la vérification des blocs par -checkblocks (0-4, par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied or if &lt;category&gt; = 1, output all debugging information.</source>
-        <translation>Si la &lt;catégorie&gt; n&apos;est pas fournie ou si &lt;catégorie&gt; = 1, toutes les informations de débogage sont affichées.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
-        <translation>Si paytxfee n&apos;est pas défini, inclure suffisamment de frais pour que les transactions commencent à être confirmées en moyenne dans les n blocs (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If this block is in the chain assume that it and its ancestors are valid and potentially skip their script verification (0 to verify all, default: %s, testnet: %s)</source>
-        <translation>Si ce bloc se trouve dans la chaîne, il est supposé que lui et ses ancêtres sont valides et que la vérification de leur script peut être ignorée (0 pour tout vérifier, par défaut : %s, testnet : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid amount for -discardthreshold=&lt;amount&gt;: &apos;%s&apos; (must be at least the dust limit of %s to prevent stuck transactions)</source>
-        <translation>Montant non valide pour -discardthreshold=&lt;amount&gt; : &apos;%s&apos; (doit être au moins égal à la limite de poussière de %s pour éviter les transactions bloquées).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
-        <translation>Montant non valide pour -maxtxfee=&lt;amount&gt; : &apos;%s&apos; (doit être au moins égal au frais de minrelay de %s pour éviter les transactions bloquées)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
-        <translation>Maintient un index complet des transactions, utilisé par l&apos;appel rpc getrawtransaction (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maximum allowed median peer time offset adjustment. Local perspective of time may be influenced by peers forward or backward by this amount. (default: %u seconds)</source>
-        <translation>Ajustement maximal autorisé du décalage temporel médian des pairs. La perspective locale du temps peut être influencée par les pairs qui avancent ou reculent de cette valeur. (par défaut : %u secondes)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
-        <translation>Taille maximale des données dans les transactions sur support de données que nous relayons et minons (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maximum total fees (in %s) to use in a single wallet transaction or raw transaction; setting this too low may abort large transactions (default: %s)</source>
-        <translation>Total maximum des frais (en %s) à utiliser dans une seule transaction de portefeuille ou une transaction brute; une valeur trop basse peut entraîner l&apos;annulation de transactions importantes (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
-        <translation>Nombre de secondes pour empêcher les pairs en difficulté de se reconnecter (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
-        <translation>Sortie des informations de débogage (par défaut : %u, la fourniture de la &lt;catégorie&gt; est optionnelle)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong, %s will not work properly.</source>
-        <translation>Veuillez vérifier que la date et l&apos;heure de votre ordinateur sont correctes ! Si votre horloge est incorrecte, %s ne fonctionnera pas correctement.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please contribute if you find %s useful. Visit %s for further information about the software.</source>
-        <translation>Merci de contribuer si vous trouvez %s utile. Visitez %s pour plus d&apos;informations sur le logiciel.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
-        <translation>L&apos;élagage est configuré en dessous du minimum de %d MiB.  Veuillez utiliser un nombre plus élevé.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prune: last wallet synchronisation goes beyond pruned data. You need to -reindex (download the whole blockchain again in case of pruned node)</source>
-        <translation>Élagage : la dernière synchronisation du portefeuille va au-delà des données élaguées. Vous devez réindexer (télécharger à nouveau l&apos;ensemble de la blockchain dans le cas d&apos;un nœud élagué)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect/-noconnect)</source>
-        <translation>Demande des adresses de pairs par consultation DNS, si le nombre d&apos;adresses est faible (par défaut : 1 sauf si -connect/-noconnect)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
-        <translation>Randomiser les informations d&apos;identification pour chaque connexion au proxy. Cela permet d&apos;isoler le flux Tor (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reduce storage requirements by enabling pruning (deleting) of old blocks. This allows the pruneblockchain RPC to be called to delete specific blocks, and enables automatic pruning of old blocks if a target size in MiB is provided. This mode is incompatible with -txindex and -rescan. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, 1 = allow manual pruning via RPC, &gt;%u = automatically prune block files to stay under the specified target size in MiB)</source>
-        <translation>Réduire les besoins en stockage en permettant l&apos;élagage (suppression) des anciens blocs. Cela permet d&apos;appeler la RPC pruneblockchain pour supprimer des blocs spécifiques, et permet l&apos;élagage automatique des anciens blocs si une taille cible en MiB est fournie. Ce mode est incompatible avec -txindex et -rescan. Attention : L&apos;annulation de ce paramètre nécessite de retélécharger l&apos;ensemble de la blockchain. (par défaut : 0 = désactiver l&apos;élagage des blocs, 1 = autoriser l&apos;élagage manuel via RPC, &gt;%u = élaguer automatiquement les fichiers de blocs pour rester en dessous de la taille cible spécifiée en MiB)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rescans are not possible in pruned mode. You will need to use -reindex which will download the whole blockchain again.</source>
-        <translation>Les rescans ne sont pas possibles en mode élagué. Vous devrez utiliser -reindex qui téléchargera à nouveau l&apos;ensemble de la blockchain.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set lowest fee rate (in %s/kB) for transactions to be included in block creation. (default: %s)</source>
-        <translation>Fixe le taux de redevance le plus bas (en %s/kB) pour les transactions à inclure dans la création de blocs. (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
-        <translation>Définir la taille maximale des transactions à haute priorité/faibles frais en octets (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
-        <translation>Définir le nombre de threads de vérification du script (%u à %d, 0 = auto, &lt;0 = laisser ce nombre de cœurs libres, par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sets the serialization of raw transaction or block hex returned in non-verbose mode, non-segwit(0) or segwit(1) (default: %d)</source>
-        <translation>Définit la sérialisation de la transaction brute ou de du bloc hex renvoyé en mode non verbeux, non-segwit(0) ou segwit(1) (valeur par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify directory where to write backups and data dumps (default datadir/backups)</source>
-        <translation>Spécifier le répertoire où écrire les sauvegardes et les vidages de données (par défaut datadir/backups)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
-        <translation>Prise en charge du filtrage des blocs et des transactions à l&apos;aide de filtres bloom (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The block database contains a block which appears to be from the future. This may be due to your computer&apos;s date and time being set incorrectly. Only rebuild the block database if you are sure that your computer&apos;s date and time are correct</source>
-        <translation>La base de données des blocs contient un bloc qui semble provenir du futur. Cela peut être dû à un réglage incorrect de la date et de l&apos;heure de votre ordinateur. Ne reconstruisez la base de données de blocs que si vous êtes sûr que la date et l&apos;heure de votre ordinateur sont correctes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The minimum transaction output size (in %s) used to validate wallet transactions and discard change (to fee) (default: %s)</source>
-        <translation>Taille minimale de la transaction (en %s) utilisée pour valider les transactions du portefeuille et rejeter les changements (pour les frais) (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The transaction amount is too small to send after the fee has been deducted</source>
-        <translation>Le montant de la transaction est trop faible pour être envoyé après déduction des frais</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Il s&apos;agit d&apos;une version de test avant publication - à utiliser à vos risques et périls - ne pas utiliser pour des applications de minage ou commerciales</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is the transaction fee you may pay when fee estimates are not available.</source>
-        <translation>Il s&apos;agit des frais de transaction que vous pouvez payer lorsque les estimations de frais ne sont pas disponibles.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit %s and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard. Paper wallet art provided by Anacoluthia.</source>
-        <translation>Ce produit inclut un logiciel développé par le projet OpenSSL pour une utilisation dans la boîte à outils OpenSSL %s et un logiciel cryptographique écrit par Eric Young et un logiciel UPnP écrit par Thomas Bernard. L&apos;art du portefeuille papier est fourni par Anacoluthia.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Total length of network version string (%i) exceeds maximum length (%i). Reduce the number or size of uacomments.</source>
-        <translation>La longueur totale de la chaîne de la version réseau (%i) dépasse la longueur maximale (%i). Réduisez le nombre ou la taille des commentaires.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tries to keep outbound traffic under the given target (in MiB per 24h), 0 = no limit (default: %d)</source>
-        <translation>Tente de maintenir le trafic sortant en dessous de l&apos;objectif donné (en MiB par 24h), 0 = pas de limite (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to rewind the database to a pre-fork state. You will need to redownload the blockchain</source>
-        <translation>Impossible de remettre la base de données dans un état pré-fork. Vous devez retélécharger la blockchain</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation>L&apos;argument -socks n&apos;est pas pris en compte. Le réglage de la version SOCKS n&apos;est plus possible, seuls les proxys SOCKS5 sont pris en charge.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported argument -whitelistalwaysrelay ignored, use -whitelistrelay and/or -whitelistforcerelay.</source>
-        <translation>Argument non pris en charge -whitelistalwaysrelay ignoré, utiliser -whitelistrelay et/ou -whitelistforcerelay.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
-        <translation>Utiliser UPnP pour mapper le port d&apos;écoute (par défaut : 1 en cas d&apos;écoute et sans -proxy)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after BIP32. Only has effect during wallet creation/first start</source>
-        <translation>Utilisation de la génération de clés déterministes hiérarchiques (HD) après BIP32. N&apos;a d&apos;effet que lors de la création d&apos;un portefeuille/au premier démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
-        <translation>Utiliser un proxy SOCKS5 séparé pour atteindre les pairs via les services cachés de Tor (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username and hashed password for JSON-RPC connections. The field &lt;userpw&gt; comes in the format: &lt;USERNAME&gt;:&lt;SALT&gt;$&lt;HASH&gt;. A canonical python script is included in share/rpcuser. The client then connects normally using the rpcuser=&lt;USERNAME&gt;/rpcpassword=&lt;PASSWORD&gt; pair of arguments. This option can be specified multiple times</source>
-        <translation>Nom d&apos;utilisateur et mot de passe haché pour les connexions JSON-RPC. Le champ &lt;userpw&gt; se présente sous la forme : &lt;USERNAME&gt;:&lt;SALT&gt;$&lt;HASH&gt;. Un script python canonique est inclus dans share/rpcuser. Le client se connecte alors normalement en utilisant la paire d&apos;arguments rpcuser=&lt;USERNAME&gt;/rpcpassword=&lt;PASSWORD&gt;. Cette option peut être spécifiée plusieurs fois</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet will not create transactions that violate mempool chain limits (default: %u)</source>
-        <translation>Le portefeuille ne créera pas de transactions qui violent les limites de la chaîne mempool (défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Avertissement : Le réseau ne semble pas être entièrement d&apos;accord ! Certains mineurs semblent rencontrer des problèmes.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: Unknown block versions being mined! It&apos;s possible unknown rules are in effect</source>
-        <translation>Avertissement : Des versions de blocs inconnues sont extraites ! Il est possible que des règles inconnues soient en vigueur.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: Wallet file corrupt, data salvaged! Original %s saved as %s in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Avertissement : Fichier du portefeuille corrompu, données récupérées ! L&apos;original %s a été sauvegardé comme %s dans %s; si votre solde ou vos transactions sont incorrects, vous devez les restaurer à partir d&apos;une sauvegarde.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Avertissement : Il semble que nous ne soyons pas tout à fait d&apos;accord avec nos pairs ! Il se peut que vous deviez effectuer une mise à jour, ou que d&apos;autres nœuds aient besoin d&apos;une mise à jour.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given IP address (e.g. 1.2.3.4) or CIDR notated network (e.g. 1.2.3.0/24). Can be specified multiple times.</source>
-        <translation>Inscrire sur liste blanche les homologues qui se connectent à partir de l&apos;adresse IP donnée (par exemple 1.2.3.4) ou du réseau noté CIDR (par exemple 1.2.3.0/24). Peut être spécifié plusieurs fois.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>Les pairs figurant sur la liste blanche ne peuvent pas faire l&apos;objet d&apos;une interdiction DoS et leurs transactions sont toujours relayées, même si elles se trouvent déjà dans le pool de mémoire, ce qui est utile, par exemple, pour une passerelle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to go back to unpruned mode.  This will redownload the entire blockchain</source>
-        <translation>Vous devez reconstruire la base de données en utilisant -reindex pour revenir au mode non élagué.  Cela permettra de télécharger à nouveau l&apos;ensemble de la blockchain</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex-chainstate to change -txindex</source>
-        <translation>Vous devez reconstruire la base de données en utilisant -reindex-chainstate pour modifier -txindex</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%s corrupt, salvage failed</source>
-        <translation>%s corrompu, échec de la récupération</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%s is set very high!</source>
-        <translation>%s est très élevé !</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(default: %s)</source>
-        <translation>(par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(default: %u)</source>
-        <translation>(par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>-maxmempool must be at least %d MB</source>
-        <translation>-maxmempool doit être au moins de %d MB</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
-        <translation>la &lt;catégorie&gt; peut être :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Accepter les commandes en ligne et les commandes JSON-RPC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept public REST requests (default: %u)</source>
-        <translation>Accepter les requêtes REST publiques (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Ajouter un nœud auquel se connecter et tenter de maintenir la connexion ouverte</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Autoriser les recherches DNS pour -addnode, -seednode et -connect</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always query for peer addresses via DNS lookup (default: %u)</source>
-        <translation>Toujours demander les adresses des pairs via une recherche DNS (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Amaze</source>
-        <translation>Émerveiller</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Append comment to the user agent string</source>
-        <translation>Ajouter un commentaire à la chaîne de l&apos;agent utilisateur</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attempt to recover private keys from a corrupt wallet on startup</source>
-        <translation>Tentative de récupération des clés privées d&apos;un portefeuille corrompu au démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically create Tor hidden service (default: %d)</source>
-        <translation>Créer automatiquement un service caché Tor (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Block creation options:</source>
-        <translation>Options de création de blocs :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot downgrade wallet</source>
-        <translation>Impossible de rétrograder le portefeuille</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot resolve -%s address: &apos;%s&apos;</source>
-        <translation>Impossible de résoudre l&apos;adresse -%s : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Impossible d&apos;écrire l&apos;adresse par défaut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chain selection options:</source>
-        <translation>Options de sélection des chaînes :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change index out of range</source>
-        <translation>Modification de l&apos;indice hors intervalle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>
-        <translation>Connexion par proxy SOCKS5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Se connecter à un nœud pour récupérer les adresses des pairs et se déconnecter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connection options:</source>
-        <translation>Options de connexion :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>
-        <translation>Copyright (C) %i-%i</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
-        <translation>Une base de données de blocs corrompue a été détectée</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
-        <translation>Options de débogage/test :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Défaut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Ne pas charger le portefeuille et désactiver les appels RPC au portefeuille</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>Voulez-vous reconstruire la base de données des blocs maintenant ?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Done loading</source>
-        <translation>Chargement terminé</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable BIP-70 PaymentServer (default: 0)</source>
-        <translation>Activer le serveur de paiement BIP-70 (par défaut : 0)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable publish hash block in &lt;address&gt;</source>
-        <translation>Activer la publication du bloc de hachage dans &lt;l&apos;adresse&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable publish hash transaction in &lt;address&gt;</source>
-        <translation>Activer la publication d&apos;une transaction de hachage à &lt;l&apos;adresse&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable publish raw block in &lt;address&gt;</source>
-        <translation>Activer la publication du bloc brut dans &lt;l&apos;adresse&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable publish raw transaction in &lt;address&gt;</source>
-        <translation>Activer la publication d&apos;une transaction brute à &lt;l&apos;adresse&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable transaction replacement in the memory pool (default: %u)</source>
-        <translation>Activer le remplacement des transactions dans le pool de mémoire (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Erreur d&apos;initialisation de la base de données des blocs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Erreur d&apos;initialisation de l&apos;environnement de la base de données wallet %s !</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading %s</source>
-        <translation>Erreur de chargement de %s</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading %s: Wallet corrupted</source>
-        <translation>Erreur de chargement %s : Portefeuille corrompu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading %s: Wallet requires newer version of %s</source>
-        <translation>Erreur de chargement %s : Le portefeuille nécessite une version plus récente de %s</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading %s: You can&apos;t disable HD on a already existing HD wallet</source>
-        <translation>Erreur de chargement %s : Vous ne pouvez pas désactiver le HD sur un HD wallet déjà existant.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error loading block database</source>
-        <translation>Erreur de chargement de la base de données des blocs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error opening block database</source>
-        <translation>Erreur d&apos;ouverture de la base de données des blocs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
-        <translation>Erreur de lecture de la base de données, arrêt de l&apos;application.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Erreur</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: A fatal internal error occurred, see debug.log for details</source>
-        <translation>Erreur : Une erreur interne fatale s&apos;est produite, voir debug.log pour plus de détails</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error: Disk space is low!</source>
-        <translation>Erreur : L&apos;espace disque est insuffisant !</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>N&apos;a pas réussi à écouter sur un port quelconque. Utilisez -listen=0 si vous le souhaitez.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fee (in %s/kB) to add to transactions you send (default: %s)</source>
-        <translation>Frais (en %s/kB) à ajouter aux transactions envoyées (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: %u, 0 = all)</source>
-        <translation>Nombre de blocs à vérifier au démarrage (par défaut : %u, 0 = tous)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Importing...</source>
-        <translation>Importation...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Imports blocks from external blk000??.dat file on startup</source>
-        <translation>Importe des blocs du fichier externe blk000 ??.dat au démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include IP addresses in debug output (default: %u)</source>
-        <translation>Inclure les adresses IP dans la sortie de débogage (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation>Bloc de genèse incorrect ou non trouvé. Mauvais répertoire de données pour le réseau ?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Informations</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Initialization sanity check failed. %s is shutting down.</source>
-        <translation>Le contrôle d&apos;intégrité de l&apos;initialisation a échoué. %s est en train de s&apos;arrêter.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Fonds insuffisants</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid -onion address: &apos;%s&apos;</source>
-        <translation>Adresse -onion invalide : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>Adresse -proxy invalide : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid amount for -%s=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Montant non valide pour -%s=&lt;amount&gt; : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid amount for -fallbackfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Montant non valide pour -fallbackfee=&lt;amount&gt; : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos; (must be at least %s)</source>
-        <translation>Montant non valide pour -paytxfee=&lt;amount&gt; : &apos;%s&apos; (doit être au moins %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid netmask specified in -whitelist: &apos;%s&apos;</source>
-        <translation>Masque de réseau non valide spécifié dans -whitelist : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
-        <translation>Conserver en mémoire au plus &lt;n&gt; transactions non connectables (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep the transaction memory pool below &lt;n&gt; megabytes (default: %u)</source>
-        <translation>Maintenir le pool de mémoire de transaction en dessous de &lt;n&gt; mégaoctets (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keypool ran out, please call keypoolrefill first</source>
-        <translation>Keypool épuisé, veuillez d&apos;abord appeler keypoolrefill</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Écoute des connexions JSON-RPC sur &lt;port&gt; (défaut : %u ou testnet : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
-        <translation>Écoute des connexions sur &lt;port&gt; (défaut : %u ou testnet : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading addresses...</source>
-        <translation>Chargement des adresses...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading banlist...</source>
-        <translation>Chargement de la liste de bannissement...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Chargement de l&apos;index du bloc...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading wallet...</source>
-        <translation>Chargement du portefeuille...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location of the auth cookie (default: data dir)</source>
-        <translation>Emplacement du cookie d&apos;authentification (par défaut : data dir)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
-        <translation>Maintenir au maximum &lt;n&gt; connexions aux pairs (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make the wallet broadcast transactions</source>
-        <translation>Faire en sorte que le portefeuille diffuse les transactions</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Many generous</source>
-        <translation>De nombreux généreux</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Tampon de réception maximum par connexion, &lt;n&gt;*1000 octets (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
-        <translation>Tampon d&apos;envoi maximum par connexion, &lt;n&gt;*1000 octets (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation>Minimum</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Plus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Need to specify a port with -whitebind: &apos;%s&apos;</source>
-        <translation>Il faut spécifier un port avec -whitebind : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Node relay options:</source>
-        <translation>Options de relais de nœuds :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
-        <translation>Pas assez de descripteurs de fichiers disponibles.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
-        <translation>Se connecter uniquement aux nœuds du réseau &lt;net&gt; (ipv4, ipv6 ou onion)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation>Options :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password for JSON-RPC connections</source>
-        <translation>Mot de passe pour les connexions JSON-RPC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
-        <translation>Faire précéder la sortie de débogage d&apos;un horodatage (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print this help message and exit</source>
-        <translation>Imprimer ce message d&apos;aide et quitter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print version and exit</source>
-        <translation>Imprimer la version et quitter</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prune cannot be configured with a negative value.</source>
-        <translation>L&apos;élagage ne peut pas être configuré avec une valeur négative.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prune mode is incompatible with -txindex.</source>
-        <translation>Le mode d&apos;élagage est incompatible avec -txindex.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pruning blockstore...</source>
-        <translation>Élagage du stockage de blocs...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>RPC server options:</source>
-        <translation>Options du serveur RPC:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rebuild chain state and block index from the blk*.dat files on disk</source>
-        <translation>Reconstruire l&apos;état de la chaîne et l&apos;index des blocs à partir des fichiers blk*.dat sur le disque</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rebuild chain state from the currently indexed blocks</source>
-        <translation>Reconstruire l&apos;état de la chaîne à partir des blocs actuellement indexés</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reducing -maxconnections from %d to %d, because of system limitations.</source>
-        <translation>Réduction de -maxconnections de %d à %d, en raison des limitations du système.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Relay and mine data carrier transactions (default: %u)</source>
-        <translation>Relayer et exploiter les transactions sur les supports de données (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Relay non-P2SH multisig (default: %u)</source>
-        <translation>Relais non-P2SH multisig (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rescan the block chain for missing wallet transactions on startup</source>
-        <translation>Rescannage de la chaîne de blocs à la recherche de transactions de portefeuille manquantes au démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Rescannage...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rewinding blocks...</source>
-        <translation>Rembobinage des blocs...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Fonctionne en arrière-plan en tant que démon et accepte les commandes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Envoyer les informations de trace/débogage à la console au lieu du fichier debug.log</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
-        <translation>Envoyer les transactions en tant que transactions sans frais si possible (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send transactions with full-RBF opt-in enabled (default: %u)</source>
-        <translation>Envoyer les transactions avec full-RBF opt-in activé (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
-        <translation>Définir la taille du cache de la base de données en mégaoctets (%d à %d, par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: %u)</source>
-        <translation>Définir la taille de la key pool à &lt;n&gt; (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set maximum BIP141 block weight (default: %d)</source>
-        <translation>Fixer le poids maximal du bloc BIP141 (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
-        <translation>Définir la taille maximale du bloc en octets (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set the number of threads to service RPC calls (default: %d)</source>
-        <translation>Définir le nombre de threads pour répondre aux appels RPC (par défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Afficher toutes les options de débogage (utilisation : --help -help-debug)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Réduire le fichier debug.log au démarrage du client (par défaut : 1 si pas de -debug)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>Échec de la signature de la transaction</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify configuration file (default: %s)</source>
-        <translation>Spécifier le fichier de configuration (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
-        <translation>Spécifie le délai de connexion en millisecondes (minimum : 1, défaut : %d)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Spécifier le répertoire des données</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify pid file (default: %s)</source>
-        <translation>Spécifier le fichier pid (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Spécifier le fichier portefeuille (dans le répertoire de données)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>Spécifiez votre propre adresse publique</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: %u)</source>
-        <translation>Passer les changements non confirmés lors de l&apos;envoi de transactions (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Starting network threads...</source>
-        <translation>Démarrage threads réseaux...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Such expensive</source>
-        <translation>Plutôt coûteux</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The source code is available from %s.</source>
-        <translation>Le code source est disponible auprès de %s.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The transaction amount is too small to pay the fee</source>
-        <translation>Le montant de la transaction est trop faible pour payer les frais</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The wallet will avoid paying less than the minimum relay fee.</source>
-        <translation>Le portefeuille évitera de payer moins que le minimum de frais de relais.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is experimental software.</source>
-        <translation>Il s&apos;agit d&apos;un logiciel expérimental.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is the minimum transaction fee you pay on every transaction.</source>
-        <translation>Il s&apos;agit des frais de transaction minimaux que vous payez pour chaque transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Il s&apos;agit des frais de transaction que vous paierez si vous envoyez une transaction.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
-        <translation>Seuil de déconnexion des pairs qui se comportent mal (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tor control port password (default: empty)</source>
-        <translation>Mot de passe du port de contrôle Tor (par défaut : vide)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tor control port to use if onion listening enabled (default: %s)</source>
-        <translation>Port de contrôle Tor à utiliser si l&apos;écoute onion est activée (par défaut : %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Montant de la transaction trop faible</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction amounts must not be negative</source>
-        <translation>Les montants des transactions ne doivent pas être négatifs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction has too long of a mempool chain</source>
-        <translation>La chaîne de mempool de la transaction est trop longue</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction must have at least one recipient</source>
-        <translation>La transaction doit avoir au moins un destinataire</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
-        <translation>Transaction trop importante pour la politique de frais</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Transaction trop importante</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer (bind returned error %s)</source>
-        <translation>Impossible de se lier à %s sur cet ordinateur (erreur de liaison retournée %s)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. %s is probably already running.</source>
-        <translation>Impossible de se connecter à %s sur cet ordinateur. %s est probablement déjà en cours d&apos;exécution.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to start HTTP server. See debug log for details.</source>
-        <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>Réseau inconnu spécifié dans -onlynet : &apos;%s&apos;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported argument -benchmark ignored, use -debug=bench.</source>
-        <translation>Argument non supporté -benchmark ignoré, utiliser -debug=bench.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported argument -debugnet ignored, use -debug=net.</source>
-        <translation>Argument non supporté -debugnet ignoré, utiliser -debug=net.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported argument -tor found, use -onion.</source>
-        <translation>Argument non supporté -tor trouvé, utiliser -onion.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format on startup</source>
-        <translation>Mise à jour du portefeuille au format le plus récent au démarrage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Namecoin-compatible AuxPow API structure, (default: %u)</source>
-        <translation>Utilise une structure API AuxPow compatible avec Namecoin, (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: %u)</source>
-        <translation>Utiliser UPnP pour mapper le port d&apos;écoute (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use the test chain</source>
-        <translation>Utiliser la chaîne de test</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Agent comment (%s) contains unsafe characters.</source>
-        <translation>Le commentaire de l&apos;agent utilisateur (%s) contient des caractères dangereux.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
-        <translation>Nom d&apos;utilisateur pour les connexions JSON-RPC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
-        <translation>Vérification des blocs...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Verifying wallet...</source>
-        <translation>Vérification du portefeuille...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation>Le portefeuille %s réside en dehors du répertoire de données %s</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet debugging/testing options:</source>
-        <translation>Options de débogage/test du portefeuille :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart %s to complete</source>
-        <translation>Le portefeuille a dû être réécrit : redémarrer %s pour terminer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Options de portefeuille :</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Avertissement</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning: unknown new rules activated (versionbit %i)</source>
-        <translation>Attention : nouvelles règles inconnues activées (versionbit %i)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Whether to operate in a blocks only mode (default: %u)</source>
-        <translation>Indique s&apos;il faut fonctionner en mode blocs uniquement (par défaut : %u)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wow</source>
-        <translation>Wow</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Zapper toutes les transactions du portefeuille...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ZeroMQ notification options:</source>
-        <translation>Options de notification ZeroMQ :</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -1,5 +1,5 @@
 // Copyright (c) 2011-2016 The Bitcoin Core developers
-// Copyright (c) 2021 The Dogecoin Core developers
+// Copyright (c) 2021 The Mydogecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -64,7 +64,9 @@ public:
             std::vector<CNodeStats> vstats;
             if(g_connman)
                 g_connman->GetNodeStats(vstats);
+#if QT_VERSION >= 0x040700
             cachedNodeStats.reserve(vstats.size());
+#endif
             Q_FOREACH (const CNodeStats& nodestats, vstats)
             {
                 CNodeCombinedStats stats;

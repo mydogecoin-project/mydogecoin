@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-Currently, version 1.14.7 is supported on this repository.
+Currently, version 1.14.8 is supported on this repository.
 
 ## Reporting a Vulnerability
 

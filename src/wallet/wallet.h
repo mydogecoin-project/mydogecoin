@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
-// Copyright (c) 2022-2023 The Dogecoin Core developers
+// Copyright (c) 2022-2023 The Mydogecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -9,7 +9,7 @@
 
 #include "amount.h"
 #include "auxpow.h"
-#include "dogecoin-fees.h"
+#include "mydogecoin-fees.h"
 #include "streams.h"
 #include "tinyformat.h"
 #include "ui_interface.h"
@@ -57,19 +57,19 @@ static const CAmount DEFAULT_FALLBACK_FEE = RECOMMENDED_MIN_TX_FEE;
 //! -mintxfee default
 static const CAmount DEFAULT_TRANSACTION_MINFEE = RECOMMENDED_MIN_TX_FEE;
 //! -discardthreshold default
-/* 1.14.5: set the wallet's discard threshold to 1 DOGE because that's what 97%
+/* 1.14.5: set the wallet's discard threshold to 1 MYDOGE because that's what 97%
  *         of the network currently implements as the hard dust limit. This
  *         value can be changed when a significant portion of the relay network
  *         and miners have adopted a different hard dust limit.
  */
-/* 1.14.6: set the wallet's discard threshold to 0.01 DOGE. Very network
+/* 1.14.6: set the wallet's discard threshold to 0.01 MYDOGE. Very network
  *         adoption of new hard dust limit
  */
 static const CAmount DEFAULT_DISCARD_THRESHOLD = COIN / 100;
 
 //! minimum recommended increment for BIP 125 replacement txs
 /*
- * Dogecoin: Scaled to 1/10th of the recommended transaction fee to make RBF
+ * Mydogecoin: Scaled to 1/10th of the recommended transaction fee to make RBF
  * cheaper than CPFP. This reduces onchain pollution by encouraging transactions
  * to be replaced in the mempool, rather than be respent by another transaction
  * which then both would have to be mined, taking up block space and increasing
@@ -78,7 +78,7 @@ static const CAmount DEFAULT_DISCARD_THRESHOLD = COIN / 100;
  */
 static const CAmount WALLET_INCREMENTAL_RELAY_FEE = RECOMMENDED_MIN_TX_FEE / 10;
 /*
- * Dogecoin: Creating change outputs at exactly the dustlimit is counter-
+ * Mydogecoin: Creating change outputs at exactly the dustlimit is counter-
  * productive because it leaves no space to bump the fee up, so we make the
  * minimum change higher than the discard threshold.
  *
@@ -813,11 +813,11 @@ public:
      */
     static CAmount GetMinimumFee(const CMutableTransaction& tx, unsigned int nTxBytes, unsigned int nConfirmTarget, const CTxMemPool& pool, CAmount targetFee);
     /**
-     * Dogecoin: Get a fee targeting a specific transaction speed.
+     * Mydogecoin: Get a fee targetting a specific transaction speed.
      */
     CAmount GetDogecoinPriorityFee(const CMutableTransaction& tx, unsigned int nTxBytes, FeeRatePreset nSpeed);
     /**
-     * Dogecoin: Get a fee targeting a specific transaction speed.
+     * Mydogecoin: Get a fee targetting a specific transaction speed.
      */
     static CAmount GetDogecoinPriorityFee(const CMutableTransaction& tx, unsigned int nTxBytes, FeeRatePreset nSpeed, CAmount targetFee);
     /**
@@ -827,7 +827,7 @@ public:
     static CAmount GetRequiredFee(const CMutableTransaction& tx, unsigned int nTxBytes);
     /**
      * Return the minimum required fee taking into account the
-     * floating relay fee and user set minimum transaction fee, but not the Dogecoin dust fee.
+     * floating relay fee and user set minimum transaction fee, but not the Mydogecoin dust fee.
      */
     static CAmount GetRequiredFee(unsigned int nTxBytes);
 

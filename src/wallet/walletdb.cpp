@@ -18,6 +18,7 @@
 #include <atomic>
 
 #include <boost/version.hpp>
+#include <boost/filesystem.hpp>
 #include <boost/foreach.hpp>
 #include <boost/thread.hpp>
 
@@ -783,7 +784,7 @@ DBErrors CWalletDB::ZapWalletTx(CWallet* pwallet, vector<CWalletTx>& vWtx)
 void ThreadFlushWalletDB()
 {
     // Make this thread recognisable as the wallet flushing thread
-    RenameThread("dogecoin-wallet");
+    RenameThread("mydogecoin-wallet");
 
     static bool fOneThread;
     if (fOneThread)

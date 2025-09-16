@@ -14,7 +14,8 @@
 #include <string>
 #include <utility>
 #include <vector>
-#include <functional>
+
+#include <boost/function.hpp>
 
 class CBlockIndex;
 class CCoinsViewDBCursor;
@@ -121,7 +122,7 @@ public:
     bool WriteTxIndex(const std::vector<std::pair<uint256, CDiskTxPos> > &list);
     bool WriteFlag(const std::string &name, bool fValue);
     bool ReadFlag(const std::string &name, bool &fValue);
-    bool LoadBlockIndexGuts(std::function<CBlockIndex*(const uint256&)> insertBlockIndex);
+    bool LoadBlockIndexGuts(boost::function<CBlockIndex*(const uint256&)> insertBlockIndex);
 };
 
 #endif // BITCOIN_TXDB_H
